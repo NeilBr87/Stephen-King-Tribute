@@ -1,5 +1,5 @@
 html {
-    background-image: url("https://img.freepik.com/free-photo/solid-navy-blue-concrete-textured-wall_53876-124584.jpg?w=1380&t=st=1674576834~exp=1674577434~hmac=cf92eed463b52eac429042bbd8a45239ab5b98b2bfa01aea347c321d5cc05876");
+    background-color:rgb(30, 30, 100);
     background-size: cover;
     color: black;
     font-family: 'Jost', sans-serif;
@@ -11,9 +11,9 @@ html {
     max-width: 960px;
     text-align: center;
     margin: 0 auto;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(240, 240, 240);
     padding: 0px 50px 30px 50px;
-    margin-top: 30px;
+    margin-top: 10px;
     margin-bottom: 50px;
 }
 
@@ -23,7 +23,9 @@ html {
         text-align: center;
         margin: 0 auto;
         padding: 40px 20px 20px 20px;
-        margin-top: 20px;  
+        margin-top: 20px;
+        font-size: 50px;  
+        font-family: 'Carrois Gothic SC', sans-serif;
 }
 
 h2 {
